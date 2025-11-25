@@ -2,21 +2,21 @@
 
 This is MJ tech a Software Engineer based in India.
 
-I work on creating user experiences, solving complex problems, and exploring new technologies.
+I work on solving complex problems and I like exploring new technologies to help solve those problems.
+
 I can do both back end and front end development:
-- React, typescript, tailwind, Python, Javascript
-- expo, supabase, firebase, node.js and many more
+- React, Typescript, Tailwind, Python, Javascript
+- Expo, Supabase, Firebase, Node.js and many more
 
 ---
 
-**Languages**
-- JavaScript / TypeScript  
-- Python
+**tools**
+- Git & GitHub, VS Code
+- Expo, Figma, Obsidian
+- NPM, MySQL, Supabase
+- Firebase, Vercel
 
-**Frameworks & Libraries**
-- React  
-- Node.js
-- Unity  
-- React Native  
+---
 
-*(…and many more I use depending on the project!)*
+## ✨ A Bit About Me
+I love 🧠 physics, 🔢 maths, ⌚ watches, 🚗 cars, and 🛠️ creating programs.
