@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there, This is MJ tech a Software Engineer from India 👋
 
-<!--
-**MJ-fn/MJ-fn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer who loves building **apps, websites, and games**.  
+I enjoy creating polished user experiences, solving complex problems, and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- **Mobile Apps** — intuitive and performance-focused  
+- **Web Development** — responsive, scalable frontend & backend solutions  
+- **Game Development** — gameplay systems, UI/UX, and prototypes
+
+---
+
+## 🛠️ Technologies & Tools I Use
+Here are some of the main tools I work with (I use many more, but here are the essentials):
+
+### **Languages**
+- JavaScript / TypeScript  
+- Python
+
+### **Frameworks & Libraries**
+- React  
+- Node.js
+- Unity  
+- React Native  
+
+### **Tools & Platforms**
+- Git & GitHub  
+- VS Code  
+- Android Studio  
+- Unity Hub  
+- Firebase
+- Supabase  
+
+*(…and many more I use depending on the project!)*
+
+---
+
+## 🌱 Currently Exploring
+- AI-powered development tools
+- Creating my own LLM
+- AI resources
+
+---
+
+## 📫 Let’s Connect
+Feel free to reach out or collaborate on interesting projects!
+
