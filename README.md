@@ -10,7 +10,7 @@ I can do both back end and front end development:
 
 ---
 
-**tools**
+## 🧰 **tools**
 - Git & GitHub, VS Code
 - Expo, Figma, Obsidian
 - NPM, MySQL, Supabase
