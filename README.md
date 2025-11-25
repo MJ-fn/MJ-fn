@@ -19,4 +19,4 @@ I can do both back end and front end development:
 ---
 
 ## ✨ A Bit About Me
-I love 🧠 physics, 🔢 maths, ⌚ watches, 🚗 cars, and 🛠️ creating programs.
+I love 🧠 physics, 🔢 maths, ⌚ watches, 🚗 cars, and 💻 computers.
